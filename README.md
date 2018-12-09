@@ -7,16 +7,12 @@ App Store Connect API wrapper
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'app_store_connect_api'
+gem 'app_store_connect_api', github: 'vkill/app_store_connect_api'
 ```
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install app_store_connect_api
 
 ## Usage
 
